@@ -1,2 +1,2 @@
 # kadesubmissiondua
-Contoh Kade Submission Satu
+Contoh Kade Submission Dua
